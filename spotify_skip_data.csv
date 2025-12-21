@@ -1,0 +1,11 @@
+song,artist,genre,plays,skips,likes,popularity
+Song A,Artist 1,Pop,1000,250,600,80
+Song B,Artist 2,Rock,800,120,500,75
+Song C,Artist 3,Hip-Hop,1500,600,700,65
+Song D,Artist 4,Pop,2000,300,1200,90
+Song E,Artist 5,Jazz,400,50,200,55
+Song F,Artist 6,EDM,1800,700,650,60
+Song G,Artist 7,Classical,300,20,150,50
+Song H,Artist 8,Rock,1200,200,800,78
+Song I,Artist 9,Pop,2200,900,900,70
+Song J,Artist 10,Hip-Hop,1600,400,750,72
